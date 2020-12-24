@@ -1,8 +1,8 @@
 # ChessDB
 
-ChessDB is a chess statistics website where users can login to their account and download their monthly data from other
-online chess websites. As most chess websites typically display low-level, basic statistics of a user's profile, the purpose
-of ChessDB is to expand on this data to the users and give them graphical, more detailed ways to view their stats. 
+ChessDB is a chess statistics website where users can download their monthly data from other
+Chess.com. Connected via the Chess.com API, a simply python script is run to scrape the data off 
+of the URL site, and downloads all this data directly onto your local directory.
 
 To run the project locally, simply type
 
