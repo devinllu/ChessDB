@@ -4,6 +4,8 @@ ChessDB is a chess statistics website where users can download their monthly dat
 Chess.com. Connected via the Chess.com API, a simply python script is run to scrape the data off 
 of the URL site, and downloads all this data directly onto your local directory.
 
+Flask: https://flask.palletsprojects.com/en/1.1.x/
+
 To run the project locally, simply type
 
 ###### python3 app.py
